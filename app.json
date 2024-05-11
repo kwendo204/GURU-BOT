@@ -9,13 +9,13 @@
   "env": {
     "DATABASE_URL": {
       "description": "your mongodb database url",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "mongodb+srv://jameskwendo20:kwendo209@@cluster0.psdr9bu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "GuruBot~ZhRdAJ6M"
     },
     "MODE": {
       "description": "mode public or private",
